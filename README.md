@@ -1,9 +1,9 @@
 #How to run?
 
-1)Fetch this repository
-2)cd my-app
-3)npm install
-4)npm run dev
+- 1)Fetch this repository.<br>
+- 2)cd my-app.<br>
+- 3)npm install.<br>
+- 4)npm run dev.<br>
 
 
 
